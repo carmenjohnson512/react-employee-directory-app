@@ -1,0 +1,15 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 15px;
+}
+
+.search-button {
+  margin: 10px;
+  background-color: teal;
+}
+
+.sort-button {
+  background-color: teal
+}
